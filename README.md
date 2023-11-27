@@ -1,2 +1,1 @@
-# Python Homework
- 
+# Python Промежуточная аттестация - файл ex2
