@@ -119,3 +119,5 @@ with open('resurs.txt', 'r', encoding=file_coding) as f_n:
     f_n.seek(0)
 
 
+
+
