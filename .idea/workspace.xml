@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60e2387-2e48-468e-b807-f6ad3551b6ae" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/ex2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resurs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Python Homework/2 lesson/2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Homework/2 lesson/2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Homework/2 lesson/2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Homework/2 lesson/2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Homework/2 lesson/2.5.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +36,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="2N1AfBjoP82lmUdxGPtbo79gjR2" />
+=======
+  <component name="ProjectId" id="2J0AIdb8fe3unE3Cd3PU43pxdpN" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -39,15 +51,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.ex2">
     <configuration name="1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.2.5">
+    <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Homework" />
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< Updated upstream
       <option name="SDK_HOME" value="D:\.загрузочные файлы\Новая папка (2)\pythonw.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/1 lesson" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -55,6 +77,56 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/1 lesson/1.1.py" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/2 lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/2 lesson/2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/2 lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/2 lesson/2.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/2 lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/2 lesson/2.3.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,6 +136,10 @@
       <method v="2" />
     </configuration>
     <configuration name="2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+<<<<<<< Updated upstream
+=======
+      <module name="Python-Homework" />
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -71,10 +147,16 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/2 lesson" />
+<<<<<<< Updated upstream
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+=======
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+>>>>>>> Stashed changes
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/2 lesson/2.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -84,6 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,18 +210,30 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+=======
+    <configuration name="2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Homework" />
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Homework/2 lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Homework/2 lesson/2.5.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,10 +244,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="Python.ex2" />
         <item itemvalue="Python.3.1" />
         <item itemvalue="Python.1.1" />
         <item itemvalue="Python.2.4" />
+=======
+        <item itemvalue="Python.2.5" />
+        <item itemvalue="Python.2.4" />
+        <item itemvalue="Python.2.3" />
+        <item itemvalue="Python.2.2" />
+        <item itemvalue="Python.2.1" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -160,10 +263,17 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b60e2387-2e48-468e-b807-f6ad3551b6ae" name="Changes" comment="" />
+<<<<<<< Updated upstream
       <created>1678821321656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678821321656</updated>
+=======
+      <created>1671204549307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671204549307</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
